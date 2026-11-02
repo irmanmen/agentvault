@@ -1,0 +1,1 @@
+{"description":"AgentVault - an AI agent wallet with spending limits on NEAR (NEAR HACKATHON, Agent Economy track)","license":"MIT","name":"agentvault","scripts":{"demo":"node demo/demo.mjs","demo:testnet":"node demo/demo-testnet.mjs","test":"node --test src/*.test.mjs"},"type":"module","version":"0.1.0","dependencies":{"near-api-js":"^7.4.0"}}
